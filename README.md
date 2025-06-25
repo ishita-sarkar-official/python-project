@@ -1,5 +1,8 @@
 # Binance Futures Testnet Trading Bot
+# Crypto Trading Bot – Binance Futures Testnet
 
+A Python-based trading bot with CLI and GUI interfaces for Binance Futures Testnet.
+Supports market, limit, stop, and stop-market orders with logging and modular structure.
 A simple CLI-based trading bot for the Binance Futures Testnet using `python-binance`.
 
 ## Features
