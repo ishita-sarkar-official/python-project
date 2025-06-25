@@ -1,0 +1,6 @@
+2025-06-25 01:04:25,059 [INFO] Bot initialized with testnet URL.
+2025-06-25 01:04:47,769 [ERROR] Order error: APIError(code=None): None
+2025-06-25 17:04:57,721 [INFO] Bot initialized with testnet URL.
+2025-06-25 17:05:21,106 [ERROR] Order error: APIError(code=None): None
+2025-06-25 17:06:03,421 [ERROR] Order error: APIError(code=None): None
+2025-06-25 17:36:09,033 [INFO] Bot initialized with testnet URL.
